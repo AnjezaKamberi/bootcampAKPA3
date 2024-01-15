@@ -1,4 +1,4 @@
-package javabootcamp.oop.trashegimia;
+package bootcampAKPA3.oop.trashegimia;
 
 public class Person {
 

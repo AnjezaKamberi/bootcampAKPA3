@@ -1,4 +1,4 @@
-package javabootcamp.oop;
+package bootcampAKPA3.oop;
 
 public class LlogariBankare {
 

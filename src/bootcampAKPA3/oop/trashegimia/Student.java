@@ -1,4 +1,4 @@
-package javabootcamp.oop.trashegimia;
+package bootcampAKPA3.oop.trashegimia;
 
 // IS A Person , klase femije, klase e derivuar, subklase e Person
 public class Student extends Person {

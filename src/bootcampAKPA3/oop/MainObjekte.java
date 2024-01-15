@@ -1,6 +1,6 @@
 package bootcampAKPA3.oop;
 
-public class Main {
+public class MainObjekte {
 
 	// deklarimi i nje objekti
 	static Supermarket elioSupermarket;
