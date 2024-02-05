@@ -1,0 +1,17 @@
+A. Per nje produkt qe ndodhet ne nje magazine ruani:
+
+1. Emrin e produktit
+2. Cmimin e produktit
+3. Sasine e produktit
+4. Kategorite ku ben pjese ky produkt. Nje produkt mund te perfshihet ne me shume se nje kategori
+
+B. Percaktoni konstruktoret NO-ARGS dhe ME ARGS.
+
+C. 
+Supozoni qe jeni ne rolin e nje magazinieri i cili regjistron produkte ne magazine.
+1. Produkti nuk duhet te kete nje cmim me vlere me te madhe se 50000Leke.  Nese magazinieri regjistron kete cmim per produktin perkates, te informohet me nje mesazh pershkrues.
+
+2. Sasia qe mund te shtohet per nje produkt nuk mund te jete nje vlere me e vogel se zero, 0 ose nje vlere me e madhe se 100.
+
+3. Nje produkt mund te perfshihet ne me shume se nje kategori, por jo dy apo me shume here ne te njejten kategori.
+Per te tre keto pika perdor custom exceptions.
